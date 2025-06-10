@@ -13,6 +13,7 @@ This project was developed using:
 - Power Query – to clean and transform data from multiple fact and dimension tables
 - DAX – for key performance indicators, conditional logic, and time intelligence
 - SQL – for data testing and validation
+- Excel – Used for initial data exploration and preprocessing
 
 ## 4. Data Source
 Source: Kaggle (OYO hotel booking dataset)
